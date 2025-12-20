@@ -1,5 +1,7 @@
 # Project Demo
 ## AI4EDA: LLM-based RTL-to-GDSII flow automation
+Check out the project at [AutoEDA](https://github.com/HoiIanAu/AutoEDA)
+
 [Click to view demo](https://llm4chip.org/demo_v3.mp4)
 
 ## Bionic Jellyfish Robot
